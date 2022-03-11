@@ -34,6 +34,7 @@ print(ar1.pop(5))
 print(ar1)
 
 #Fetch through index
+print("Index", ar1)
 k = ar1.index(3)
 print(k)
 
